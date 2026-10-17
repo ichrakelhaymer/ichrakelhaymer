@@ -8,8 +8,6 @@
 </p>
 
 ---
-
-## 💫 About Me
 ## 💫 About Me
 
 💻 **Building:** Full-stack web applications
