@@ -10,24 +10,12 @@
 ---
 
 ## 💫 About Me
+## 💫 About Me
 
-🔭 **I'm currently working on**  
-Building modern, responsive full-stack web applications using **React, Next.js, PHP, and Laravel**.
-
-👯 **I'm looking to collaborate on**  
-Full-stack web projects, dynamic websites, REST APIs, and innovative web applications.
-
-🤝 **I'm looking to improve**  
-My skills in backend architecture, database design, API development, and writing clean, maintainable code.
-
-🌱 **I'm currently learning**  
-Advanced **JavaScript, React, Next.js, PHP, Laravel**, and database management to become a stronger full-stack developer.
-
-💬 **Ask me about**  
-HTML, CSS, JavaScript, React, Next.js, PHP, Laravel, MySQL, MongoDB, and Git.
-
-⚡ **Fun fact**  
-I enjoy turning ideas into functional web applications, combining creative frontend design with reliable backend logic.
+💻 **Building:** Full-stack web applications
+🤝 **Collaborating:** Web projects & REST APIs
+🌱 **Learning:** React, Next.js, Laravel & databases
+💬 **Ask me about:** JavaScript, PHP, React, MySQL & Git
 
 ---
 
