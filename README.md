@@ -11,8 +11,11 @@
 ## 💫 About Me
 
 💻 **Building:** Full-stack web applications
+
 🤝 **Collaborating:** Web projects & REST APIs
+
 🌱 **Learning:** React, Next.js, Laravel & databases
+
 💬 **Ask me about:** JavaScript, PHP, React, MySQL & Git
 
 ---
