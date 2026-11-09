@@ -23,7 +23,7 @@
 ## 🌐 Socials
 
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ichrak-elhaymer-a55a8842b/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ma.linkedin.com/in/ichrak-elhaymer-b43aa9446)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ichrak_hay/?hl=fr)
 
 ---
