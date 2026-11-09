@@ -16,7 +16,7 @@
 
 🌱 **Learning:** React, Next.js, Laravel & databases
 
-💬 **Ask me about:** JavaScript, PHP, React, MySQL & Git
+💬 **Ask me about:** JavaScript, PHP, MySQL & Git
 
 ---
 
